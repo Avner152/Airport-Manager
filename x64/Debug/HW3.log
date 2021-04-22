@@ -1,0 +1,23 @@
+﻿  Airport.c
+  AirportManager.c
+  Company.c
+  Date.c
+  fileHelper.c
+c:\users\user\desktop\online courses\hw4_done_avnerlevy_308063395_ronitzhak204114631\hw4_avnerlevy308063395_ronitzhak204114631\filehelper.c(12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Flight.c
+  General.c
+  GeneralList.c
+  main.c
+c:\users\user\desktop\online courses\hw4_done_avnerlevy_308063395_ronitzhak204114631\hw4_avnerlevy308063395_ronitzhak204114631\main.c(29): warning C4101: 'i': unreferenced local variable
+c:\users\user\desktop\online courses\hw4_done_avnerlevy_308063395_ronitzhak204114631\hw4_avnerlevy308063395_ronitzhak204114631\main.c(133): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\user\desktop\online courses\hw4_done_avnerlevy_308063395_ronitzhak204114631\hw4_avnerlevy308063395_ronitzhak204114631\main.c(162): warning C4101: 'tempDate': unreferenced local variable
+c:\users\user\desktop\online courses\hw4_done_avnerlevy_308063395_ronitzhak204114631\hw4_avnerlevy308063395_ronitzhak204114631\main.c(214): warning C4098: 'readCompanyFromCompressedFile': 'void' function returning a value
+c:\users\user\desktop\online courses\hw4_done_avnerlevy_308063395_ronitzhak204114631\hw4_avnerlevy308063395_ronitzhak204114631\main.c(218): warning C4020: 'malloc': too many actual parameters
+c:\users\user\desktop\online courses\hw4_done_avnerlevy_308063395_ronitzhak204114631\hw4_avnerlevy308063395_ronitzhak204114631\main.c(224): warning C4098: 'readCompanyFromCompressedFile': 'void' function returning a value
+c:\users\user\desktop\online courses\hw4_done_avnerlevy_308063395_ronitzhak204114631\hw4_avnerlevy308063395_ronitzhak204114631\main.c(233): warning C4098: 'readCompanyFromCompressedFile': 'void' function returning a value
+c:\users\user\desktop\online courses\hw4_done_avnerlevy_308063395_ronitzhak204114631\hw4_avnerlevy308063395_ronitzhak204114631\main.c(241): warning C4098: 'readCompanyFromCompressedFile': 'void' function returning a value
+c:\users\user\desktop\online courses\hw4_done_avnerlevy_308063395_ronitzhak204114631\hw4_avnerlevy308063395_ronitzhak204114631\main.c(243): warning C4098: 'readCompanyFromCompressedFile': 'void' function returning a value
+c:\users\user\desktop\online courses\hw4_done_avnerlevy_308063395_ronitzhak204114631\hw4_avnerlevy308063395_ronitzhak204114631\main.c(245): warning C4013: 'strcpy' undefined; assuming extern returning int
+c:\users\user\desktop\online courses\hw4_done_avnerlevy_308063395_ronitzhak204114631\hw4_avnerlevy308063395_ronitzhak204114631\main.c(251): warning C4098: 'readCompanyFromCompressedFile': 'void' function returning a value
+  Generating Code...
+  HW3.vcxproj -> C:\Users\User\Desktop\Online Courses\HW4_DONE_AvnerLevy_308063395_RonItzhak204114631\HW4_AvnerLevy308063395_RonItzhak204114631\x64\Debug\HW3.exe
